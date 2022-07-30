@@ -1,6 +1,6 @@
 # Giovanni Guillaume
 [![Gmail Badge](https://img.shields.io/badge/-gguillau98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gguillau98@gmail.com)](mailto:gguillau98@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-gguillau-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gguillau/)](https://www.linkedin.com/in/gguillau/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/giova22i/Data-Science-Portfolio/)](https://github.com/giova22i/Data-Science-Portfolio/) <p align='left'>I am an aspiring Data Scientist from Brooklyn, New York, with a STEM background in Psychology and Statistics. Proficient at Python, SPSS Statistics, HTML, and CSS.</p>
+[![Linkedin Badge](https://img.shields.io/badge/-gguillau-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gguillau/)](https://www.linkedin.com/in/gguillau/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/giova22i/Data-Science-Portfolio/)](https://github.com/giova22i/Data-Science-Portfolio/) <p align='left'>Data Analyst from Brooklyn, New York, with a STEM background in Psychology and Statistics. Proficient at Python, SPSS Statistics, HTML, and CSS.</p>
 
 <!--
 **giova22i/giova22i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
