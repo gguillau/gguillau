@@ -1,5 +1,5 @@
 # <h1 align="center"> Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, I'm Giovanni</h1>
- Data programmer from Brooklyn, New York, with a background in Psychology and Research. Proficient at Python, specializing in data analysis and machine learning.
+ Data programmer from Brooklyn, New York, with a background in Psychology and Research. Proficient at Python, specializing in statistical data analysis and machine learning.
 
 <p align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
