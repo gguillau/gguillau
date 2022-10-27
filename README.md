@@ -2,7 +2,7 @@
  Data programmer from Brooklyn, New York, with a background in Psychology and Research. Proficient at Python, specializing in statistical data analysis and machine learning.
 
 <p align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400"  /></p>
 
 <div align="center">
 
@@ -22,7 +22,9 @@
 
 
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" alt="giova22i" /></p>
+<div class="column">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" height="150" width="290" alt="giova22i" />  </div>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=giova22i&&theme=default" alt="giova22i" /></p>
+
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=giova22i&&theme=default" alt="giova22i" height="150" width="290" /></p>
 
