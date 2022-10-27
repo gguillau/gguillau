@@ -22,7 +22,7 @@
 
 
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" alt="giova22i" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" alt="giova22i" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=giova22i&&theme=default" alt="giova22i" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=giova22i&&theme=default" alt="giova22i" /></p>
 
