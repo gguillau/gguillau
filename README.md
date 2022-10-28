@@ -23,8 +23,8 @@
 
 
 <div class="column">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" height="250" width="480" alt="giova22i" />  </div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" height="250" width="450" alt="giova22i" />  </div>
 
 
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giova22i&&theme=default" alt="giova22i" height="250" width="480" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giova22i&&theme=default" alt="giova22i" height="250" width="450" /></p>
 
