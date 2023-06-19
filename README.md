@@ -3,13 +3,21 @@
 
 </h4>
 
+
 <p align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-<div align="center">
+  
+<div align="center">  
+ 
 
 [![Gmail Badge](https://img.shields.io/badge/-gguillau98@gmail.com-c14438??style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gguillau98@gmail.com)](mailto:gguillau98@gmail.com) 
 [![Portfolio Badge](https://img.shields.io/badge/Github-Project%20Portfolio-blue??style=for-the-badge&logo=appveyor&link=https://github.com/giova22i/Data-Science-Portfolio/)](https://github.com/giova22i/Data-Science-Portfolio/)</div>
+
+* 🔭 I’m currently working on adding various projects to my repo and searching for a data science position.
+* 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/giova22i/data-Science-Portfolio)
+* 💬 Ask me about Data Science, Music, Film & TV/Anime, and Soccer
+
+
 
 <h3 align="left">Languages and Tools:</h3>
  
