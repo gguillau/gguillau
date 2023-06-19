@@ -14,9 +14,9 @@
 [![Portfolio Badge](https://img.shields.io/badge/Github-Project%20Portfolio-blue??style=for-the-badge&logo=appveyor&link=https://github.com/giova22i/Data-Science-Portfolio/)](https://github.com/giova22i/Data-Science-Portfolio/)</div>
 
 * 🔭 I’m currently working on adding various projects to my repo and searching for a data science position.
-* 📈 Committed to delivering innovative solutions and continuously expanding my knowledge in the evolving field of data science.
+* 📈 Committed to continuously expanding my knowledge in the evolving field of data science.
 * 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/giova22i/data-Science-Portfolio)
-* 💬 Ask me about Data Science, Music, Film & TV/Anime, and Soccer
+* 💬 Ask me about Data Science, Music, Film & TV/Anime, and Soccer/Basketball
 
 
 
