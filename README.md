@@ -39,7 +39,7 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 
 <div class="column">
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" height="200" width="400" alt="giova22i" />  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra alt="giova22i" height="200" width="400" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=giova22i alt="giova22i" height="200" width="400" />
 
 
 </div>
