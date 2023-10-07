@@ -1,4 +1,4 @@
- <h1 align="center"> Welcome, I'm Giovanni</h1>
+ <h1 align="center"> 👋🏾 Welcome, I'm Giovanni</h1>
 
 
  
