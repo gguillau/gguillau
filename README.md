@@ -44,7 +44,12 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 </div>
 
 
-
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giova22i&label=Profile%20views&color=0e75b6&style=flat" alt="giova22i" /> </p>
 
