@@ -38,12 +38,10 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 
 
 
-<div class="column">
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" height="200" width="450" alt="giova22i" />  
 
 [![GitHub Streak](https://github-readme-streak-stats-lyart-seven.vercel.app?user=giova22i&theme=transparent&date_format=j%20M%5B%20Y%5D&card)](https://git.io/streak-stats)
 
-</div>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giova22i&label=Profile%20views&color=0e75b6&style=flat" alt="giova22i" /> </p>
