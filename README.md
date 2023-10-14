@@ -16,7 +16,7 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 [![Gmail Badge](https://img.shields.io/badge/-gguillau98@gmail.com-c14438??style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gguillau98@gmail.com)](mailto:gguillau98@gmail.com) 
 [![Portfolio Badge](https://img.shields.io/badge/Github-Project%20Portfolio-blue??style=for-the-badge&logo=appveyor&link=https://github.com/giova22i/Data-Science-Portfolio/)](https://github.com/giova22i/Data-Science-Portfolio/)</div>
 
-* 🔭 I’m currently working on adding various projects to my repo and searching for a position in Data.
+* 🔭 I’m currently a COOP Data Analytics Apprentice, working on adding various projects to my repo and searching for a position in Data.
 * 📈 Committed to continuously expanding my knowledge in the evolving field of data science.
 * 👨‍💻 My projects are available at my [Data Science Portfolio](https://github.com/giova22i/data-Science-Portfolio)
 * 💬 Ask me about Data Science, Music, Film & TV/Anime, and Soccer/Basketball
@@ -31,6 +31,7 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <div align="left">
 
 <a href="https://www.linkedin.com/in/gguillau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gguillau/" height="30" width="40" /></a></div>
@@ -38,9 +39,9 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 
 
 <div class="column">
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" height="200" width="400" alt="giova22i" />  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=giova22i alt="giova22i" height="200" width="400" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" height="200" width="497" alt="giova22i" />  
 
+[![GitHub Streak](https://github-readme-streak-stats-lyart-seven.vercel.app?user=giova22i&theme=transparent&date_format=j%20M%5B%20Y%5D&card)](https://git.io/streak-stats)
 
 </div>
 
