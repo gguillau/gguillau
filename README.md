@@ -45,10 +45,10 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats-lyart-seven.vercel.app?user=giova22i&theme=transparent&date_format=j%20M%5B%20Y%5D&card" /></div>
 </div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giova22i&label=Profile%20views&color=0e75b6&style=flat" alt="giova22i" /> </p>
