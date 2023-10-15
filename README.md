@@ -16,7 +16,7 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 [![Gmail Badge](https://img.shields.io/badge/-gguillau98@gmail.com-c14438??style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gguillau98@gmail.com)](mailto:gguillau98@gmail.com) 
 [![Portfolio Badge](https://img.shields.io/badge/Github-Project%20Portfolio-blue??style=for-the-badge&logo=appveyor&link=https://github.com/giova22i/Data-Science-Portfolio/)](https://github.com/giova22i/Data-Science-Portfolio/)</div>
 
-* 🔭 I’m currently a COOP Data Analytics Apprentice, working on adding various projects to my repo and searching for a position in Data.
+* 🔭 Currently a COOP Data Analytics Apprentice, working on adding projects to my repo and searching for a position in Data.
 * 📈 Committed to continuously expanding my knowledge in the evolving field of data science.
 * 👨‍💻 My projects are available at my [Data Science Portfolio](https://github.com/giova22i/data-Science-Portfolio)
 * 💬 Ask me about Data Science, Music, Film & TV/Anime, and Soccer/Basketball
