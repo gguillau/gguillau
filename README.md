@@ -2,7 +2,7 @@
 
 
  
-Data professional from Brooklyn, New York, with a background in Psychology and Research. Proficient in Python, highly motivated and analytical with a strong foundation in data analysis, machine learning, and statistical modeling. 
+Data professional from Brooklyn, New York, with a background in Psychology and Research. Proficient in Python, Excel, Tableau, and SQL, highly motivated and analytical with a strong foundation in data analysis/visualizations, machine learning, and statistical modeling. 
 
 
 
