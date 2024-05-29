@@ -14,11 +14,11 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
  
 
 [![Gmail Badge](https://img.shields.io/badge/-gguillau98@gmail.com-c14438??style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gguillau98@gmail.com)](mailto:gguillau98@gmail.com) 
-[![Portfolio Badge](https://img.shields.io/badge/Github-Project%20Portfolio-blue??style=for-the-badge&logo=appveyor&link=https://github.com/giova22i/Data-Science-Portfolio/)](https://github.com/giova22i/Data-Science-Portfolio/)</div>
+[![Portfolio Badge](https://img.shields.io/badge/Github-Project%20Portfolio-blue??style=for-the-badge&logo=appveyor&link=https://github.com/gguillau/Data-Science-Portfolio/)](https://github.com/gguillau/Data-Science-Portfolio/)</div>
 
 * 🔭 Currently a [COOPCareers](https://coopcareers.org/) Data Analytics Captain, working on adding projects to my repo and searching for a position in Data.
 * 📈 Committed to continuously expanding my knowledge in the evolving field of data science.
-* 👨🏿‍💻 My projects are available at my [Data Science Portfolio](https://github.com/giova22i/data-Science-Portfolio)
+* 👨🏿‍💻 My projects are available at my [Data Science Portfolio](https://github.com/gguillau/data-Science-Portfolio)
 * 💬 Ask me about Data Science, Music, Film & TV/Anime, and Soccer/Basketball
 
 
@@ -42,11 +42,11 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 
 
 <div class='container'>
-<img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=giova22i&show_icons=true&theme=default&locale=en" />
+<img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gguillau&show_icons=true&theme=default&locale=en" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 48%;" class="img" src="https://github-readme-streak-stats-lyart-seven.vercel.app?user=giova22i&theme=default&date_format=j%20M%5B%20Y%5D&card" /></div>
+<img style="height: auto; width: 48%;" class="img" src="https://github-readme-streak-stats-lyart-seven.vercel.app?user=gguillau&theme=default&date_format=j%20M%5B%20Y%5D&card" /></div>
 </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=giova22i&label=Profile%20views&color=0e75b6&style=flat" alt="giova22i" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gguillau&label=Profile%20views&color=0e75b6&style=flat" alt="gguillau" /> </p>
 
