@@ -6,7 +6,8 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
   
 <div align="center">  
-[![Gmail Badge](https://img.shields.io/badge/-gguillau98@gmail.com-c14438??style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gguillau98@gmail.com)](mailto:gguillau98@gmail.com) 
+
+ [![Gmail Badge](https://img.shields.io/badge/-gguillau98@gmail.com-c14438??style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gguillau98@gmail.com)](mailto:gguillau98@gmail.com) 
 [![Portfolio Badge](https://img.shields.io/badge/Github-Project%20Portfolio-blue??style=for-the-badge&logo=appveyor&link=https://github.com/gguillau/Data-Science-Portfolio/)](https://github.com/gguillau/Data-Science-Portfolio/)</div>
 
 * 🔭 Currently working on adding projects to my repo and searching for a position in Data.
