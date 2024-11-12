@@ -18,7 +18,7 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 
 * 🔭 Currently working on adding projects to my repo and searching for a position in Data.
 * 📈 Committed to continuously expanding my knowledge in the evolving field of data science.
-* 👨🏿‍💻 My projects are available at my [Data Science Portfolio](https://github.com/gguillau/data-Science-Portfolio)
+* 👨🏿‍💻 My projects are available at my [Data Science & Analytics Portfolio](https://github.com/gguillau/data-Science-Portfolio)
 * 💬 Ask me about Data Science, Music, Film & TV/Anime, and/or Soccer/Basketball!
 
 ## Projects
@@ -30,7 +30,7 @@ Contributed research to the company's infrastructure, with the goal of training 
 
 Tasked with developing a Python-based regression model to predict the valence of pop songs for playlist curation and other applications. An automatic method of classifying the valence of pop songs is useful for playlist curation and other applications.
 
-### Languages and Tools:
+## Programming Languages and Tools
 
 
  
