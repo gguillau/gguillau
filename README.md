@@ -30,7 +30,7 @@ Contributed research to the company's infrastructure, with the goal of training 
 
 Tasked with developing a Python-based regression model to predict the valence of pop songs for playlist curation and other applications. An automatic method of classifying the valence of pop songs is useful for playlist curation and other applications.
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
 
  
