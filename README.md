@@ -21,23 +21,27 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 * 👨🏿‍💻 My projects are available at my [Data Science Portfolio](https://github.com/gguillau/data-Science-Portfolio)
 * 💬 Ask me about Data Science, Music, Film & TV/Anime, and/or Soccer/Basketball!
 
+## Projects
+Here are some projects that I'm particularly proud of (*WIP = Work in Progress*):
+### [Tweet Geolocation Prediction - Yachay.ai](https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction)
+Contributed research to the company's infrastructure, with the goal of training a deep learning model using BERT to predict user geolocation from individual tweets. Yachay is an open-source Machine Learning community that has collected decades worth of useful natural language data from various sources.
 
+### [Song Valence Prediction - Cuetessa,inc](https://github.com/giova22i/Cuetessa-Song-Valence-Prediction)
+
+Tasked with developing a Python-based regression model to predict the valence of pop songs for playlist curation and other applications. An automatic method of classifying the valence of pop songs is useful for playlist curation and other applications.
 
 <h3 align="left">Languages and Tools:</h3>
- 
+
+
  
 <p align="left"></a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://public.tableau.com/" target="_blank"> <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5oBezXP1pj2QygJw02RWq52fLES2x7eEfUA&usqp=CAU" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5oBezXP1pj2QygJw02RWq52fLES2x7eEfUA&usqp=CAU" alt="linux" width="40" height="40"/> 
+
+</a>
+
 </p>
-
-<h3 align="left">Connect with me:</h3>
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/gguillau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gguillau/" height="30" width="40" /></a></div>
-
 
 
 
