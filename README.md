@@ -17,19 +17,19 @@ Data professional from Brooklyn, New York, with a background in Psychology and R
 
 ## Technical Projects
 Here are some projects that I'm particularly proud of (*WIP = Work in Progress*):
-### [AI Generative Chat Model - DataSpeak](https://github.com/gguillau/DataSpeak-NLP) (*WIP*)
+### [AI Generative Chat Model • DataSpeak](https://github.com/gguillau/DataSpeak-NLP) (*WIP*)
 The task is to train a machine learning model that can automatically generate answers to written questions a user inputs. For this purpose, a model will be trained with questions and answers using the Python Questions from Stack Overflow dataset. 
 
 ---
 
 
 
-### [Tweet Geolocation Prediction - Yachay.ai](https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction)
+### [Tweet Geolocation Prediction • Yachay.ai](https://github.com/giova22i/Yachay.ai-Tweet-Geolocation-Prediction)
 Contributed research to the company's infrastructure, with the goal of training a deep learning model using BERT to predict user geolocation from individual tweets. Yachay is an open-source Machine Learning community that has collected decades worth of useful natural language data from various sources. 
 
 ---
 
-### [Song Valence Prediction - Cuetessa,inc](https://github.com/giova22i/Cuetessa-Song-Valence-Prediction)
+### [Song Valence Prediction • Cuetessa,inc](https://github.com/giova22i/Cuetessa-Song-Valence-Prediction)
 
 Tasked with developing a Python-based regression model to predict the valence of pop songs for playlist curation and other applications. Valence describes the musical positiveness of a track, ranging from sad/depressed to happy/cheerful. An automatic method of classifying the valence of pop songs is useful for playlist curation and other applications.
 
