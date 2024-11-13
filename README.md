@@ -51,5 +51,5 @@ Tasked with developing a Python-based regression model to predict the valence of
 <img style="height: auto; width: 48%;" class="img" src="https://github-readme-streak-stats-lyart-seven.vercel.app?user=gguillau&theme=default&date_format=j%20M%5B%20Y%5D&card" /></div>
 </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=gguillau&label=Profile%20views&color=0e75b6&style=flat" alt="gguillau" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gguillau&label=Profile%20views&color=0e75b6&style=flat" alt="gguillau" /> </p>
 
