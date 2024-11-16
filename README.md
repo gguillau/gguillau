@@ -1,6 +1,6 @@
  <h1 align="center"> 👋🏾 Welcome, I'm Giovanni</h1>
  
-Data professional from Brooklyn, New York, with a background in Psychology and Research. Proficient in Python, Excel, Tableau, and SQL, highly motivated and analytical with a strong foundation in data analysis/visualizations, machine learning, and statistical modeling. 
+Data enthusiast from Brooklyn, New York, with a background in Psychology and Research. Proficient in Python, Excel, Tableau, and SQL, highly motivated and analytical with a strong foundation in data analysis/visualizations, machine learning, and statistical modeling. 
 
 <p align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
