@@ -17,6 +17,11 @@ Data enthusiast from Brooklyn, New York, with a background in Psychology and Res
 
 ## Technical Projects
 Here are some projects that I'm particularly proud of (*WIP = Work in Progress*):
+### [NBA Archetypes • TripleTen Code Pudding](https://github.com/nazstephen/NBA-Archetypes) (*WIP*)
+The 2024-2025 NBA season is just starting and you have just landed a job as a data scientist for your favorite NBA team. With various changes in play style, officiating, and general strategy things look very different for professional basketball than when the NBA first started.  In this project, we hope to determine different player “archetypes” which you can think of as types of roles that are not concretely defined. 
+
+---
+
 ### [AI Generative Chat Model • DataSpeak](https://github.com/gguillau/DataSpeak-NLP) (*WIP*)
 The task is to train a machine learning model that can automatically generate answers to written questions a user inputs. For this purpose, a model will be trained with questions and answers using the Python Questions from Stack Overflow dataset. 
 
